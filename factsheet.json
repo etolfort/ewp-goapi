@@ -1,0 +1,42 @@
+{
+    "res": 1,
+    "data": {
+        "nomination_due_date_autumn": "--08-01",
+        "nomination_due_date_spring": "--01-10",
+        "applications_due_date_autumn": "--10-30",
+        "applications_due_date_spring": "--03-30",
+        "application_info_email": "erasmus@massey.edu.si",
+        "application_info_phone": "+16175551212",
+        "application_info_url": "http:\/\/erasmus.en.example.edu\/",
+        "nomination_acceptance_decision_weeks_limit": "5",
+        "tor_sending_max_weeks_limit": "4",
+        "housing_info": {
+            "email": "erasmus@massey.edu.si",
+            "phone": "+16175551212",
+            "url": "http:\/\/erasmus.en.example.edu\/"
+        },
+        "visa_info": {
+            "email": "erasmus@example.edu",
+            "phone": "+16175551212",
+            "url": "http:\/\/erasmus.en.example.edu\/"
+        },
+        "insurance_info": {
+            "email": "erasmus@example.edu",
+            "phone": "+16175551212",
+            "url": "http:\/\/erasmus.en.example.edu\/"
+        },
+        "additional_info": {
+            "type": "General Information",
+            "email": "erasmus@example.edu",
+            "phone": "+16175551212",
+            "url": "http:\/\/erasmus.en.example.edu\/"
+        },
+        "additional_requirements": [
+            {
+                "name": "AA",
+                "details": "BB",
+                "url": "http:\/\/erasmus.en.example.edu\/"
+            }
+        ]
+    }
+}
